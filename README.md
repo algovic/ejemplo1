@@ -1,6 +1,6 @@
 # Ejemplo1
 
-Estamos viendo **ejemplos** sencillos
+Estamos viendo **ejemplos** sencillos de git y github.
 
 Hoy es miercoles.
 
